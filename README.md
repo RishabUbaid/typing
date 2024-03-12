@@ -1,2 +1,2 @@
 # typing
-typing spped
+typing speed
